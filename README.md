@@ -1,0 +1,23 @@
+{
+  "chào" : " Xin chào " ,
+  "tên" : " Trang " ,
+  "greetingText" : " Tớ thực sự thích tên của bạn btw! " ,
+  "wishText" : " Chúc js.prototypes luôn ở bên bạn! ;) " ,
+  "imagePath" : " img/lydia2.png " ,
+  "text1" : " Hôm nay là sinh nhật của bạn!!! :D " ,
+  "textInChatBox" : " Chúc mừng sinh nhật bạn!! Yeee! Nhiều nhiều hạnh phúc blah... " ,
+  "sendButtonLabel" : " Gửi " ,
+  "text2" : " Đó là điều tớ định làm. " ,
+  "text3" : " Nhưng rồi tôi dừng lại. " ,
+  "text4" : " Tớ nhận ra, tớ muốn làm gì đó " ,
+  "text4Adjective" : " đặc biệt " ,
+  "text5Entry" : " Bởi vì " ,
+  "text5Content" : " Bạn thật đặc biệt " ,
+  "mặt cười" : " :) " ,
+  "bigTextPart1" : " S " ,
+  "bigTextPart2" : " O " ,
+  "wishHeading" : " Chúc mừng sinh nhật! " ,
+  "outroText" : " Được rồi, bây giờ hãy quay lại và cho tôi biết bạn có thích nó không. " ,
+  "replayText" : " Hoặc nhấp vào, nếu bạn muốn xem lại. " ,
+  "outroSmiley" : " :) "
+}
